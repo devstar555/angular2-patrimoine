@@ -1,0 +1,38 @@
+div.row {
+  padding-right: 30px;
+}
+.details-left-panel, .details-right-panel {
+  padding: 20px;
+}
+.details-left-panel {
+  background-color: white;
+  position: relative;
+  display: inline-block;
+}
+.details-right-panel {
+  background-color: white;
+  display: inline-block;
+  /*position: relative;*/
+  /*position: absolute;/!*fortest*!/*/
+  padding-left: 48px;/*fortest*/
+}
+div.details-img img {
+  width: 100%;
+}
+div.social-btns {
+  padding: 47px;
+}
+div.social-btns a {
+  margin-right: 20px;
+}
+div.map-box {
+  width: 100%;
+}
+
+div.item-title a {
+  font-size: 24px;
+}
+.backtohome-btn {
+  font-size: 18px;
+  text-decoration: none;
+}
